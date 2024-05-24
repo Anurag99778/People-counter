@@ -4,6 +4,8 @@ This project is designed to count the number of people going up and down on an e
 
 ## Demo 
 
+[![People Counting Project Demo](https://img.youtube.com/vi/OhaHZhh4qnY/0.jpg)](https://youtu.be/OhaHZhh4qnY?si=SFwHvv5wnMlz3Sv8)
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
